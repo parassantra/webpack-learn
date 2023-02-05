@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/parassantra/webpack-learn#readme",
   "devDependencies": {
+    "@popperjs/core": "^2.11.6",
     "bootstrap": "^5.2.3",
     "clean-webpack-plugin": "^4.0.0",
     "css-loader": "^6.7.3",
